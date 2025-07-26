@@ -1,0 +1,37 @@
+
+body {
+    font-family: 'Vazirmatn', sans-serif;
+    background-color: #fff5ee;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    text-align: center;
+}
+.container {
+    padding: 2rem;
+}
+h1 {
+    color: #d94f4f;
+    margin-bottom: 1rem;
+}
+.main-image {
+    max-width: 300px;
+    margin: 1rem 0;
+}
+.message {
+    background-color: #ffe;
+    padding: 1rem;
+    border-radius: 12px;
+    line-height: 2;
+    margin: 2rem auto;
+    max-width: 600px;
+}
+.gallery img {
+    width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+audio {
+    margin: 1rem 0;
+}
